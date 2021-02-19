@@ -1,0 +1,43 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+
+}
+
+.pic{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h1{
+	color: #D46A6A;
+	font-size: 2em;
+	font-family: 'Reggae One', cursive;
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: 3px outset red;
+	box-shadow: 4px 4px 5px #888888;
+
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+	justify-content: center;
+}
+
+h2{
+	color:#550000;
+	font-family: 'Akaya Kanadaka', cursive;
+	font-size: 120%;
+	text-align: center;
+}
+
+
+img{
+	width: 274px;
+	height: 486px;
+	margin: 20px;
+}

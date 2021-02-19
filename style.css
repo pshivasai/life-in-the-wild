@@ -1,7 +1,3 @@
-body{
-	background-image: url(bg1.jpg);
-
-}
 
 .container{
 	display: flex;
@@ -11,6 +7,7 @@ body{
 
 h1{
 	font-size: 3em;
+	font-family: fantasy;
 	border-bottom: 2px solid pink;
 	border-right: 2px solid pink;
 	width: 400px;

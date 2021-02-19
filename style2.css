@@ -1,0 +1,31 @@
+body{
+	background-image: url(bg1.jpg);
+}
+
+h1{
+	color: #263E6C;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	border-bottom: 2px outset blue;
+	width: 350px;
+}
+
+p{
+	font-size: 150%;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+}
+
+.rq{
+	font-family: 'Dancing Script', cursive;
+	font-size: 150%;
+	text-align: center;
+}
+
+.rq2{
+	font-family: fantasy;
+	font-size: 150%;
+	text-align: center;
+}
+
+
