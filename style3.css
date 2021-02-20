@@ -1,0 +1,44 @@
+body{
+	background-image: url(bg2.jpg);
+	background-size: cover;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+h1{
+	font-family: fantasy;
+	color: #E96FE4;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+}
+
+h3{
+	font-family: 'Akaya Kanadaka', cursive;
+}
+
+.ig{
+	margin: 10px;
+}
+
+h4{
+	font-family: 'Akaya Kanadaka', cursive;
+}
+
+.btn{
+	margin: 10px;
+}
+
+#col{
+	color: #D68FAF;
+}
+
+.rq{
+	text-align: center;
+}
